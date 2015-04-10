@@ -1,0 +1,68 @@
+<<Ajouter un Host>>
+
+Cliquer sur "Host "
+Sur la page cliquer sur "Ajouter"
+Remplir le formulaire ( IP / Type / Details / Groupe )
+Cliquer sur "Ajouter"
+--> Host ajouter
+
+
+
+<<Ajouter un Utilisateur>>
+
+Cliquer sur "Utilisateurs"
+Cliquer sur "Ajouter"
+Remplir le formulaire ( Email / Password / Admin(Yes/No) / Groupe )
+
+
+
+<<Supprimer un utilisateur>>
+
+Cliquer sur "Utilisateurs"
+Choisir l'utilisateur qu'on souhaite modifier
+Cliquer sur "Supprimer"
+
+
+
+<<Voir les alertes>>
+
+Cliquer sur "Alertes"
+Voir les Alertes en cours (Déconnexion etc)
+Voir les Logs (Anciennes Alertes corrigés désormais)
+
+
+
+<<modifier mon compte>>
+
+Cliquer sur "mon compte"
+Remplir le formulaire pour changer l'adresse email
+Valider
+
+
+
+<<monitorer les hosts>>
+
+Cliquer sur "Host"
+Regarder le tableau de bord
+Host Vert => Connecté
+Host Rouge => Non connecté
+Actualisation automatique
+
+
+
+<<Trier les host>>
+
+Choisir quand on est sur la page "Host" le type d'host qu'on veut afficher
+
+
+
+<<Voir le détails d'un Host>>
+
+Sur le tableau de bord
+Cliquer sur le lien (IP)
+
+
+
+<<Se deconnecter>>
+
+Cliquer sur "Déconnexion"
