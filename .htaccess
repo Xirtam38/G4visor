@@ -1,0 +1,10 @@
+Options +FollowSymlinks
+RewriteEngine On
+RewriteRule ^([a-zA-Z0-9]+)$  index.php?composant=$1
+RewriteRule ^([a-zA-Z0-9]+)/([a-zA-Z0-9]+)$  index.php?composant=$1&action=$2
+RewriteRule ^([a-zA-Z0-9]+)/([a-zA-Z0-9]+)/([a-zA-Z0-9_-]+)$  index.php?composant=$1&action=$2&slug=$3
+
+
+
+
+#ErrorDocument 404 /erreur
